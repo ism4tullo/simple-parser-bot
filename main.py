@@ -31,7 +31,7 @@ def parse(update, context):
 	update.message.reply_text(check())
 
 
-updater = Updater('1311406717:AAFloTGB6EerhH1Q9lGHGBXrwR2Tm0wtSFI',  #TOKEN from @Botfather
+updater = Updater('',  #TOKEN from @Botfather
 		use_context=True) 
 
 #Commands with '/' 
