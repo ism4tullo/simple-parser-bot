@@ -1,1 +1,2 @@
-
+#Usage
+python main.py
